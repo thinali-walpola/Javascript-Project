@@ -25,6 +25,7 @@ body{
     text-align: center;
     border: none;
     background-color: hsl(0,0%, 15%);
+    color: white;
 }
 #keys{
     display: grid;
