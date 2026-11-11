@@ -1,0 +1,1 @@
+let userInput = "   Hello World!   ";
