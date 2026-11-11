@@ -15,3 +15,5 @@ console.log(`fccSentence.includes("freecodecamp") returns ${hasLowercaseFCC} bec
 
 let message = "Welcome to freeCodeCamp!";
 console.log("Here are some examples of the slice() method:");
+
+let platform = message.slice(11,23);
