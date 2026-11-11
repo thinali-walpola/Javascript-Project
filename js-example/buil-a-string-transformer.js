@@ -23,3 +23,6 @@ console.log(learningSentence);
 
 const repeatedLove = "love ".repeat(3);
 console.log(repeatedLove);
+
+let newSentence ="I " + repeatedLove+" learning.";
+console.log(newSentence);
