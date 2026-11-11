@@ -21,7 +21,7 @@ let  learningSentence = "I love learning!";
 console.log("Original learning sentence:");
 console.log(learningSentence);
 
-const repeatedLove = "love ".repeat(3);
+const repeatedLove = "love ".repeat(3).trimEnd();
 console.log(repeatedLove);
 
 let newSentence ="I " + repeatedLove+" learning.";
