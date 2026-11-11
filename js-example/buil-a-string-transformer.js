@@ -7,3 +7,7 @@ let replacedString = originalString.replace("cats", "dogs");
 
 console.log("After using the replace() method:");
 console.log(replacedString);
+
+let exampleSentence = "I love cats and cats are so much fun!";
+console.log("Original sentence:");
+console.log(exampleSentence);
