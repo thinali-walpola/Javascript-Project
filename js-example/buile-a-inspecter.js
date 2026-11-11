@@ -11,3 +11,7 @@ console.log(`fccSentence.includes("JavaScript") returns ${hasJavaScript} because
 
 let hasLowercaseFCC = fccSentence.includes("freecodecamp");
 console.log(`fccSentence.includes("freecodecamp") returns ${hasLowercaseFCC} because includes is case-sensitive.`);
+
+
+let message = "Welcome to freeCodeCamp!";
+console.log("Here are some examples of the slice() method:");
