@@ -4,3 +4,6 @@ console.log(originalString);
 
 
 let replacedString = originalString.replace("cats", "dogs");
+
+console.log("After using the replace() method:");
+console.log(replacedString);
