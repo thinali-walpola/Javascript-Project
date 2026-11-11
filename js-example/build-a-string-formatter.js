@@ -7,3 +7,5 @@ console.log(cleanedInput);
 const trimmedStart = userInput.trimStart();
 console.log("After using the trimStart() method, leading spaces removed:");
 console.log(trimmedStart);
+
+const trimmedEnd = userInput.trimEnd();
