@@ -19,3 +19,7 @@ console.log("Here are some examples of the slice() method:");
 let platform = message.slice(11,23);
 
 console.log(`The word "${platform}" was sliced from the message.`);
+
+
+let greetingWord = message.slice(0,7);
+console.log(`The first word is "${greetingWord}".`);
