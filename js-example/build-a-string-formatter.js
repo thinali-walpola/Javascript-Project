@@ -15,3 +15,8 @@ console.log(trimmedEnd);
 const upperCaseInput = cleanedInput.toUpperCase();
 console.log("Result of using the toUpperCase() method:");
 console.log(upperCaseInput);
+
+
+const lowerCaseInput = cleanedInput.toLowerCase();
+console.log("Result of using the toLowerCase() method:");
+console.log(lowerCaseInput);
